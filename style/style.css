@@ -326,6 +326,7 @@ header .container i#close {
     display: flex;
     box-shadow: 2px 0 14px 2px #0000006e;
     border-radius: 8rem 0;
+    overflow: hidden;
 }
 @media (max-width: 991px) { 
     .about .holder { 
